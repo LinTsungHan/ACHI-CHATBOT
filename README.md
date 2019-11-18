@@ -7,5 +7,5 @@ Preparing to push on Heroku!<br>
 
 * * *
 <20191118><br>
-can push on heroku
+can push on heroku.
 
